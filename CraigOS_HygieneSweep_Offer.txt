@@ -1,0 +1,35 @@
+🛡️ CraigOS Hygiene Sweep – Cert-Mode System Audits by CraigOS Sovereign
+
+Is your Windows system leaking telemetry, cluttered with orphaned installers, or burdened by legacy drivers? CraigOS offers forensic-grade hygiene sweeps that trace, purge, and seal your system—built by a forensic architect with a cert-mode GitHub suite.
+
+🔍 What You Get:
+- Full system audit using CraigOS modules (PowerShell-based)
+- Registry sweep: COM, CLSID, AppID, Trust vectors
+- Driver and installer purge
+- Sync mesh trace and telemetry lock detection
+- Closure card documentation with timestamps and log references
+- GitHub-style hygiene report for your records
+
+💼 Why CraigOS?
+- 29 forensic modules built from scratch  
+- Each sweep logged, timestamped, and sealed  
+- WSL Kali + VM Kali installed for red team prep  
+- Resume and GitHub repo available for review  
+- Cert path underway (Security+, CEH, OSCP)
+
+🎯 Ideal For:
+- Developers and IT teams  
+- Small businesses  
+- Cybersecurity students  
+- Anyone preparing for red team audits or cert-mode hygiene
+
+💰 Pricing:
+- Flat rate per sweep or per subsystem  
+- Custom quotes available for multi-system audits
+
+📬 Contact:
+Craig Wignell  
+Brunswick, Western Australia  
+GitHub: [wiggy87](https://github.com/wiggy87/CraigOS-CertMode)  
+Email: goofster69@gmail.com
+
