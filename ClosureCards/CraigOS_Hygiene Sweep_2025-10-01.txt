@@ -1,6 +1,6 @@
-CraigOS Closure Card: CrossDeviceWatch
+CraigOS Closure Card: CraigOS_Hygiene Sweep
 Timestamp: 2025-10-01 18:25 AWST
 Operator: CraigOS Sovereign
-Subsystem: [Define subsystem for CrossDeviceWatch]
+Subsystem: [Define subsystem for CraigOS_Hygiene Sweep]
 Status: Script executed successfully. Logs captured.
 Notes: Closure card scaffolded for cert-mode export.

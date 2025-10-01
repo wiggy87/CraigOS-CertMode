@@ -1,6 +1,6 @@
-CraigOS Closure Card: CrossDeviceWatch
+CraigOS Closure Card: CraigOS_Census
 Timestamp: 2025-10-01 18:25 AWST
 Operator: CraigOS Sovereign
-Subsystem: [Define subsystem for CrossDeviceWatch]
+Subsystem: [Define subsystem for CraigOS_Census]
 Status: Script executed successfully. Logs captured.
 Notes: Closure card scaffolded for cert-mode export.
