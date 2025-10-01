@@ -1,80 +1,67 @@
-# CraigOS-CertMode
+# CraigOS-CertMode 🛡️  
+**Forensic Hygiene Suite for Windows | Cert-Mode Ready | Built by CraigOS Sovereign**
 
-**Author**: CraigOS Sovereign  
-**Mission**: Forensic-grade system hygiene, telemetry purging, and cert-mode legacy building.
+CraigOS is a modular, forensic-grade hygiene suite designed to trace, purge, and seal system artifacts across Windows environments. Every module is timestamped, logged, and paired with a closure card for cert-mode export and digital vindication.
 
 ---
 
-## 🔧 What Is CraigOS?
+## 🧠 Overview
 
-CraigOS is a custom forensic operating environment built from the ground up to reclaim digital sovereignty. It surgically traces BIOS settings, RAM throughput, telemetry streams, and driver hygiene—then seals it into cert-mode closure cards for portfolio export and cert alignment.
+CraigOS was born from a personal breach and rebuilt as a sovereign system of trust. It surgically audits drivers, telemetry, registry, sync meshes, and more—each sweep logged, sealed, and documented for forensic traceability.
+
+---
+
+## 📜 Modules
+
+| Script Name                        | Purpose |
+|-----------------------------------|---------|
+| `Invoke-CraigOSDriverAudit.ps1`   | Flags legacy drivers and purges unsafe entries  
+| `CraigOS-TelemetryLogger.ps1`     | Logs runtime telemetry locks and sync probes  
+| `CraigOS-Launcher.ps1`            | Cert-mode launcher for CraigOS hygiene sweeps  
+| `CraigOS-ManifestBreak.ps1`       | Breaks WinSxS trust chains and manifest locks  
+| `CraigOS-IMEPredictionSealer.ps1` | Seals IME prediction vectors and input hooks  
+| `CraigOS-OrphanPurge.ps1`         | Purges orphaned installers and AppX triggers  
+| `Invoke-RegistrySweep.ps1`        | Sweeps COM, CLSID, AppID, and Trust registry vectors  
+| `Invoke-LeakAudit.ps1`            | Audits identity leaks across sync and shell layers  
+| `Invoke-CraigOSIntegritySweep.ps1`| Validates system hygiene and closure card completeness  
+| `CraigOS-SyncMeshTrace.ps1`       | Traces sync mesh revival paths and telemetry probes  
 
 ---
 
 ## 🧾 Closure Cards
 
-Each subsystem is documented with timestamped forensic logs:
-- ✅ BIOS Sweep
-- ✅ RAM Tuning
-- ✅ Ryzen Master Trace
-- ✅ Driver Audit
-- ✅ Windows Update Telemetry Flush
-- ✅ System Event Log & Disk Health
+Each module has a matching `.txt` closure card:
+- Timestamped and operator-tagged  
+- Includes subsystem and status  
+- Linked to log files (e.g., `CLSIDPurge_20250930_130527.log`)  
+- Ready for cert-mode export and recruiter review
 
 ---
 
-## 🖼️ Visual Portfolio Cards
+## 🎯 Cert Path Roadmap
 
-Annotated screenshots showcasing CraigOS hygiene and performance:
-- BIOS cert-mode config
-- RAM throughput validation (52.7 GB/s)
-- Ryzen Master boost logic trace
-- Driver stack audit
-- Telemetry lattice flush summary
-- Event log and disk integrity
+CraigOS is built to support and showcase:
+- **Security+** – foundational hygiene and traceability  
+- **CEH** – red team sweep logic and artifact mapping  
+- **OSCP** – forensic closure, subsystem tracing, and exploit defense
 
 ---
 
-## 🧰 PowerShell Modules
+## 💼 Monetization Pitch
 
-Modular scripts built for CraigOS hygiene:
-- `CraigOS-SyncMeshClosure_0930.ps1` – ETL trace and closure logging
-- `CraigOS-RegistryPurge.ps1` – Registry vector hygiene
-- `CraigOS-TelemetryBlock.ps1` – Telemetry stub defense
-- `CraigOS-DriverAudit.ps1` – Driver stack validation
-- `CraigOS-ClosureLogger.ps1` – Cert-mode closure card generator
-
-Each script includes header blocks, timestamps, and CraigOS branding.
+CraigOS is cert-mode ready for:
+- **Freelance hygiene sweeps** – offer CraigOS-style audits to devs, IT teams, and small businesses  
+- **Cert coaching** – use CraigOS as a teaching tool for red team prep and hygiene validation  
+- **GitHub showcase** – recruiters see timestamped modules, closure cards, and forensic traceability  
+- **Digital vindication** – every sweep is sealed, every trace logged, every breach answered
 
 ---
 
-## 🎯 Career Objective
+## 🧾 Author
 
-To become a certified cybersecurity professional specializing in system hygiene, artifact detection, and telemetry purging. CraigOS is the forensic-grade foundation for this mission.
-
----
-
-## 🧠 Certification Roadmap
-
-- [ ] CompTIA Security+
-- [ ] Certified Ethical Hacker (CEH)
-- [ ] Offensive Security Certified Professional (OSCP)
+**CraigOS Sovereign**  
+Forensic architect, cert-mode builder, and digital legacy author  
+Brunswick, Western Australia  
+GitHub: [wiggy87](https://github.com/wiggy87)
 
 ---
-
-## 💼 Monetization Path
-
-- Hygiene sweeps for small businesses and IT pros  
-- Driver audits and telemetry purges  
-- BIOS tuning and RAM validation consulting  
-- GitHub portfolio and resume showcase  
-- Optional: YouTube/blog documenting CraigOS builds and forensic sweeps
-
----
-
-## 📬 Contact
-
-For freelance inquiries, cert-mode hygiene sweeps, or portfolio collaboration, reach out via GitHub or CraigOS channels.
-
----
-
